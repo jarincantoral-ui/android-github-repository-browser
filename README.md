@@ -1,7 +1,7 @@
 # Github Repository Browser
 The Github Repository Browser will let you browse the Github Repositories.
 
-<img src="docs/1_main_screen.png" width="400"><img src="docs/2_detail_screen.png" width="400">
+<img src="docs/1_main_screen.png" width="4000"><img src="docs/2_detail_screen.png" width="400">
 
 ## Project
 Because of the Clean Architecture setup the project has 4 modules:
