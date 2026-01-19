@@ -12,7 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Github Repository Browser"
+rootProject.name = "Github  Browser"
 include ':app'
 include ':domain'
 include ':data'
